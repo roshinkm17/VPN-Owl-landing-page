@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VPN-Owl-landing-page/static/css/main.889f7ce7.chunk.css",
+    "main.js": "/VPN-Owl-landing-page/static/js/main.e59dfac9.chunk.js",
+    "main.js.map": "/VPN-Owl-landing-page/static/js/main.e59dfac9.chunk.js.map",
+    "runtime-main.js": "/VPN-Owl-landing-page/static/js/runtime-main.d0e4bf63.js",
+    "runtime-main.js.map": "/VPN-Owl-landing-page/static/js/runtime-main.d0e4bf63.js.map",
+    "static/js/2.4b120f66.chunk.js": "/VPN-Owl-landing-page/static/js/2.4b120f66.chunk.js",
+    "static/js/2.4b120f66.chunk.js.map": "/VPN-Owl-landing-page/static/js/2.4b120f66.chunk.js.map",
+    "index.html": "/VPN-Owl-landing-page/index.html",
+    "static/css/main.889f7ce7.chunk.css.map": "/VPN-Owl-landing-page/static/css/main.889f7ce7.chunk.css.map",
+    "static/js/2.4b120f66.chunk.js.LICENSE.txt": "/VPN-Owl-landing-page/static/js/2.4b120f66.chunk.js.LICENSE.txt",
+    "static/media/logo.2994511e.svg": "/VPN-Owl-landing-page/static/media/logo.2994511e.svg",
+    "static/media/phone.b579f644.png": "/VPN-Owl-landing-page/static/media/phone.b579f644.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e4bf63.js",
+    "static/js/2.4b120f66.chunk.js",
+    "static/css/main.889f7ce7.chunk.css",
+    "static/js/main.e59dfac9.chunk.js"
+  ]
+}
